@@ -8,7 +8,7 @@ This is a personal portfolio website showcasing my experience as a developer. Th
 
 ## Live Demo 
 
-[Live Demo](https://carshy.github.io/)
+[My Portfolio Website](https://carshy.github.io/)
 
 ## Getting Started
 
